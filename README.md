@@ -8,6 +8,7 @@ This project is a complete responsive fitness and gym website design.
 - Features
 - Installation
 - Usage
+- View Demo
 
 # Description
 This project showcases a responsive website design for a fitness and gym center. It includes sections for home, about, features, pricing, trainers, blogs, and testimonials.
@@ -27,3 +28,7 @@ To view the website locally:
 # Usage
 - Navigate through different sections using the navigation links
 - Explore various features and information provided on the website
+
+# View Results
+- To see the live results of this project, visit Fitness Website Demo.
+

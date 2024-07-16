@@ -4,12 +4,10 @@
 This project is a complete responsive fitness and gym website design.
 
 # Table of Contents
-- [Description]
-- [Features]
-- [Installation]
-- [Usage]
-- [Contributing]
-- [License]
+- Description
+- Features
+- Installation
+- Usage
 
 # Description
 This project showcases a responsive website design for a fitness and gym center. It includes sections for home, about, features, pricing, trainers, blogs, and testimonials.
@@ -22,7 +20,7 @@ This project showcases a responsive website design for a fitness and gym center.
 
 # Installation
 To view the website locally:
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone <(https://github.com/AnishCodeC/GymProject.git)>`
 2. Navigate to the project directory
 3. Open `index.html` in your browser
 

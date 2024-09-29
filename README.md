@@ -30,5 +30,5 @@ To view the website locally:
 - Explore various features and information provided on the website
 
 # View Results
-- To see the live results of this project, visit [Fitness Website Demo](https://anishcodec.github.io/GymProject/).
+- To see the live results of this project, visit [Fitness Website Demo](https://anishcodec.github.io/Health-and-Fitness-website/).
 

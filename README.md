@@ -21,7 +21,7 @@ This project showcases a responsive website design for a fitness and gym center.
 
 # Installation
 To view the website locally:
-1. Clone the repository: `git clone <(https://github.com/AnishCodeC/GymProject.git)>`
+1. Clone the repository: `git clone <(https://github.com/AnishGitFlow/GymProject.git)>`
 2. Navigate to the project directory
 3. Open `index.html` in your browser
 
@@ -30,5 +30,5 @@ To view the website locally:
 - Explore various features and information provided on the website
 
 # View Results
-- To see the live results of this project, visit [Fitness Website Demo](https://anishcodec.github.io/Health-and-Fitness-website/).
+- To see the live results of this project, visit [Fitness Website Demo](https://AnishGitFlow.github.io/Health-and-Fitness-website/).
 
